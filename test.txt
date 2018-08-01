@@ -1,2 +1,1 @@
-����
-
+if(learnJs) { return "you cool programmer"}
